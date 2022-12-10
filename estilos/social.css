@@ -1,0 +1,49 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body
+{ 
+    width: 100vw;
+    height: 100vh;
+    background: no-repeat;
+}
+::-webkit-scrollbar
+{
+    width: 0px;
+    height: 0px;
+}
+p
+{
+    background-color: red;
+    padding: 10px;
+    box-sizing: border-box;
+
+
+}
+
+a
+{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    display: block;
+   
+}
+a:hover
+{
+    text-shadow: 2px 2px 5px black;
+
+  
+
+}
+
+img
+{
+    width:100vw;   
+    box-sizing: border-box;         
+
+}
